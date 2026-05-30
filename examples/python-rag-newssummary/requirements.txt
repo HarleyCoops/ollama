@@ -4,6 +4,6 @@ mattsollamatools==0.0.8
 newspaper3k==0.2.8
 nltk==3.9.4
 numpy==1.24.3
-Requests==2.33.0
-scikit_learn==1.5.0
+Requests==2.34.2
+scikit_learn==1.8.0
 sentence_transformers==2.2.2
